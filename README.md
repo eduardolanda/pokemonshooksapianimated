@@ -1,68 +1,30 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Poke React Hooks and Pose.Js Web App.
 
-## Available Scripts
 
-In the project directory, you can run:
+### `What is it?`
+This web app was created based on another app I created before, I wanted to re-recreate it and add a new animation feature, dragging cards and hooks from react. 
 
-### `npm start`
+### `Tech used for this project`
+React.Js(HOOKS)
+Semantic-UI
+Pose.Js
+Rest API
+### `Why did I use this tech?`
+I wanted to check how easier or harder It was to do exacly the same app using only functional components(Hooks) instead of using classes .  To add styling I used to implement Material-UI but I found more ways to change functionallity using Semantic-Ui. 
+And the effect you may see when draggin a poke card is done with Pose.Js.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### `POKE API`
+All the data was gotten from POKE API. PUBLIC API.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+### `Do you want to run this project?`
 
-### `npm test`
+Just donwload the project and run in using yarn start or npm start, after being installed. 
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+If you want to see a live demo you find the link on my profiles
 
-### `npm run build`
+www.linkedin.com/in/eduardolanda
+www.eduardolanda.ca
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## EDUARDO LANDA / FRONT-END/WEB DEVELOPER
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
